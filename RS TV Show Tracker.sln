@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29324.140
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RS TV Show Tracker", "RS TV Show Tracker.csproj", "{BB7EC6E2-7334-4017-94DF-E0F0C370FDAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RS TV Show Tracker Light", "RS TV Show Tracker Light.csproj", "{CF61F84A-309C-4A51-AD34-C6C07AD668C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Nightly|x86 = Nightly|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB7EC6E2-7334-4017-94DF-E0F0C370FDAC}.Debug|x86.ActiveCfg = Debug|x86
+		{BB7EC6E2-7334-4017-94DF-E0F0C370FDAC}.Debug|x86.Build.0 = Debug|x86
+		{BB7EC6E2-7334-4017-94DF-E0F0C370FDAC}.Nightly|x86.ActiveCfg = Nightly|x86
+		{BB7EC6E2-7334-4017-94DF-E0F0C370FDAC}.Nightly|x86.Build.0 = Nightly|x86
+		{BB7EC6E2-7334-4017-94DF-E0F0C370FDAC}.Release|x86.ActiveCfg = Release|x86
+		{BB7EC6E2-7334-4017-94DF-E0F0C370FDAC}.Release|x86.Build.0 = Release|x86
+		{CF61F84A-309C-4A51-AD34-C6C07AD668C4}.Debug|x86.ActiveCfg = Debug|x86
+		{CF61F84A-309C-4A51-AD34-C6C07AD668C4}.Debug|x86.Build.0 = Debug|x86
+		{CF61F84A-309C-4A51-AD34-C6C07AD668C4}.Nightly|x86.ActiveCfg = Release|x86
+		{CF61F84A-309C-4A51-AD34-C6C07AD668C4}.Nightly|x86.Build.0 = Release|x86
+		{CF61F84A-309C-4A51-AD34-C6C07AD668C4}.Release|x86.ActiveCfg = Release|x86
+		{CF61F84A-309C-4A51-AD34-C6C07AD668C4}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4617F803-C997-407F-8B07-08A276376946}
+	EndGlobalSection
+EndGlobal
